@@ -1,0 +1,19 @@
+
+
+NET clk LOC = A11  ;    
+NET rst LOC = Y1   ;  
+
+
+NET data<0> LOC = U12;
+NET data<1> LOC = V12;
+NET data<2> LOC = Y12;
+NET data<3> LOC = Y13;
+NET data<4> LOC = AB13;
+NET data<5> LOC = AA13;
+NET data<6> LOC = V13;
+NET data<7> LOC = AB14;
+
+NET rx LOC = C4   ; 
+NET tx LOC = C3   ; 
+NET sendchar LOC = W2   ; 
+
